@@ -1,5 +1,6 @@
 # Raytracing Game Engine
 
+(See "Images" to check out what I managed to render)
 
 This project was quite the learning experience — I went from no C++ experience to making a full raytracing engine in OpenGL.
 
