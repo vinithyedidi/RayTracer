@@ -12,6 +12,9 @@ This project was a lot of fun, because I got to use a lot of math to implement t
 
 Overall, I learned a lot about C++, graphics, linear algebra, and generally how computations work on a computer. I hope to do more in graphics and C++.
 
+
+*note: you will need to install GLM, OpenGL, GLFW, GLAD, and KHR to run this program.
+
 # Sources
 https://raytracing.github.io/
 https://learnopengl.com
