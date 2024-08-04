@@ -16,6 +16,6 @@ Overall, I learned a lot about C++, graphics, linear algebra, and generally how 
 *note: you will need to install GLM, OpenGL, GLFW, GLAD, and KHR to run this program.
 
 # Sources
-https://raytracing.github.io/
-https://learnopengl.com
+- https://raytracing.github.io/
+- https://learnopengl.com
 
