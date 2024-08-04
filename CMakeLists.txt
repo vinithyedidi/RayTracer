@@ -16,7 +16,6 @@ link_directories(
 set(SOURCES
         src/main.cpp
         src/render.cpp
-        src/poop.cpp
 )
 add_executable(Renderer src/main.cpp)
 
